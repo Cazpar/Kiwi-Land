@@ -3,7 +3,7 @@ My first C++ game. Kiwi Land is an RPG game I'm working on to get comfortable in
 
 
 Brainstorm:
-https://miro.com/app/board/o9J_lbeakKI=/
+https://miro.com/app/board/o9J_lbeakKI=/  
 
 Trello board:
-https://trello.com/b/QiaDV0HQ/game-development
+https://trello.com/b/QiaDV0HQ/game-development  
